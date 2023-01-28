@@ -1,0 +1,40 @@
+H3 {
+    color: teal;
+    text-transform: capitalize;
+    letter-spacing: 3px;
+    font-family: sans-serif;
+}
+H4.S1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 1em;
+    text-indent:30em;
+    color:gray;
+    text-align: center;
+}
+
+H4.S2 {
+    color:blue;
+    text-transform: capitalize;
+    text-align: left;
+    letter-spacing: 3px;
+    font-family: sans-serif;
+}
+
+P.S1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 1em;
+    text-indent:30em;
+    color:gray;
+    text-align: center;
+
+}
+
+P.S2 {
+    color:blue;
+    text-transform: capitalize;
+    text-align: left;
+    letter-spacing: 3px;
+    font-family: sans-serif;
+}
